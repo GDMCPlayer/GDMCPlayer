@@ -2,7 +2,7 @@ Honestly not sure about what my account is about... I just realized that back wh
 
 
 
-# Hi — I'm Bibou1494
+# Hi — I'm GDMCPlayer
 
 Hey! I'm (not) a developer who loves video games (Geometry Dash, Minecraft...) and coding. I build small bots and websites for fun and learning.
 
@@ -18,9 +18,9 @@ Hey! I'm (not) a developer who loves video games (Geometry Dash, Minecraft...) a
 
 If you'd like details or code for any project, ask — I can share code snippets or bring something back up.
 
-## Organizations
+<!-- ## Organizations
 - Member of: [IrisiumOfficiel](https://github.com/irisiumofficiel) — Role: Administrator  
-  [![Organization](https://img.shields.io/badge/organization-IrisiumOfficiel-blue?style=flat-square)](https://github.com/IrisiumOfficiel)
+  [![Organization](https://img.shields.io/badge/organization-IrisiumOfficiel-blue?style=flat-square)](https://github.com/IrisiumOfficiel) -->
 
 ## Tech & Languages
 - Comfortable with: HTML, CSS  
@@ -39,7 +39,7 @@ I use AI tools as assistants (for ideas and suggestions), but I try to understan
 ## Github Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Bibou1494&theme=dark&show_icons=true&count_private=true">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=GDMCPlayer&theme=dark&show_icons=true&count_private=true">
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Bibou1494&theme=dark"></td><td width="50%" align="center">
-<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Bibou1494&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=GDMCPlayer&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=GDMCPlayer&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
